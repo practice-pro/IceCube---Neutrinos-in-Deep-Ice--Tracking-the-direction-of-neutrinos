@@ -1,0 +1,2 @@
+# IceCube---Neutrinos-in-Deep-Ice--Tracking-the-direction-of-neutrinos
+Detecting the direction of neutrinos helps trace cosmic activity including gamma ray bursts, neutrino stars, exploding stars or black holes. An MLR model with statistical significance of coefficients is developed to predict the azimuth and zenith angles to track direction. Data comes from the "IceCube" detector, located deep within South Pole ice. 
