@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this repository, please cite it using the following details:"
+authors:
+  - family-names: Mallapragada
+    given-names: Suma
+    orcid: https://orcid.org/0009-0000-3441-6168
+title: IceCube---Neutrinos-in-Deep-Ice--Tracking-the-direction-of-neutrinos
+version: "1.0.0"
+date-released: "2025-01-12"
+url: https://github.com/practice-pro/IceCube---Neutrinos-in-Deep-Ice--Tracking-the-direction-of-neutrinos
